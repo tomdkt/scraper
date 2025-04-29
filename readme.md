@@ -1,6 +1,6 @@
 # Contracts Scraper
 
-Fetch every contract from the **Transparência e-Publica** portal (Palmeira-PR) and export the data—including _Valor total_—to `contratos.csv`.
+Fetch every contract from portal and export the data—including _Valor total_—to `contratos.csv`.
 
 ---
 ## Run
